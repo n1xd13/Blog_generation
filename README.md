@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n1xd13
-- 👀 I’m interested in AI, cyber security and block chain technology 
-- 🌱 I’m currently learning c,python, html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI, machine learning, data science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects mentioned on above topics.
 - 📫 How to reach me keshav.kh67@gmail.com
 
 <!---
